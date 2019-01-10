@@ -1,8 +1,8 @@
 ---
-title: 'Portfolio'
+title: 'Case Study: Florist'
 layout: landing
-description: 'This is the portfolio page<br />there are good portfolio videos here'
-image: assets/images/pic06.jpg
+description: 'This is a case study<br />there are also florist videos here'
+image: assets/images/pic08.jpg
 nav-menu: true
 ---
 
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Portfolio</h2>
+			<h2>Florist</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
