@@ -1,7 +1,7 @@
 ---
-title: 'Videos'
+title: 'Portfolio'
 layout: landing
-description: 'This is the videos page<br />there are good videos here'
+description: 'This is the portfolio page<br />there are good portfolio videos here'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
