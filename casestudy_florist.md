@@ -71,7 +71,7 @@ nav-menu: true
 	</section>
 </section>
 
-{% include youtubePlayer.html id=sPl-NFsbeOQ %}
+{% include youtubePlayer.html id="sPl-NFsbeOQ" %}
 
 <!-- Three -->
 <section id="three">
