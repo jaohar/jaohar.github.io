@@ -20,7 +20,7 @@ tiles-count: 6
 topic_order:
   - '/services'
   - '/portfolio'
-  - '/casestudy'
+  - '/casestudy_florist'
 
 # social settings
 500px_url:

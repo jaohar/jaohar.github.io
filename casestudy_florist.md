@@ -1,7 +1,6 @@
 ---
-title: Case Study
+title: Case Study: Florist
 layout: landing
-order: 2
 description: 'This is a case study<br />there are also videos here'
 image: assets/images/pic08.jpg
 nav-menu: true

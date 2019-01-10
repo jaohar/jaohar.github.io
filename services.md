@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Elements
-order: 1
-description: 'This is a text section<br />there are sentences here'
+title: Services
+description: 'This is the services section<br />there are sentences here'
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
