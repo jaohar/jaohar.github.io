@@ -71,6 +71,8 @@ nav-menu: true
 	</section>
 </section>
 
+{% include youtubePlayer.html id=page.youtubeId %}
+
 <!-- Three -->
 <section id="three">
 	<div class="inner">
