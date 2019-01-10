@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Elements
+description: 'This is a text section<br />there are sentences here'
+image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
