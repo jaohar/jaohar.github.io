@@ -1,7 +1,7 @@
 ---
-layout: landing
-title: Services
-description: 'This is the services page<br />there is good text here'
+layout: page
+title: 'Services'
+description: 'This is the services page<br/>there is good text here'
 image: assets/images/pic06.jpg
 nav-menu: true
 ---
