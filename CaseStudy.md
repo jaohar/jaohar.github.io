@@ -1,8 +1,8 @@
 ---
-title: Not Landing
+title: Case Study
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
-image: assets/images/pic07.jpg
+description: 'This is a case study<br />there are also videos here'
+image: assets/images/pic08.jpg
 nav-menu: true
 ---
 
