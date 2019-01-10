@@ -1,8 +1,8 @@
 # site settings
 title: Butts4Life
 subtitle: by DumiDumi Corporation
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br/> and released under the Creative Commons.
+email: olivia@dumidumi.com
+description: We make good bideos with food<br/> sometimes with Pebbles and Sir Loris.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
@@ -11,11 +11,11 @@ city: Melbourne
 state: Victoria
 zip_code: 55555
 country: Australia
-phone: (716) 555-5555
+phone:
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings
 500px_url:
