@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Services
+title: 'Our Services'
 description: 'This is the services section<br />there are sentences here'
 image: assets/images/pic01.jpg
 nav-menu: true
@@ -13,7 +13,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>Our Services</h1>
 		</header>
 
 <!-- Content -->
