@@ -1,7 +1,8 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: About us
+order: 1
+description: Here we tell you about us
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
