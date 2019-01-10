@@ -4,12 +4,12 @@ subtitle: by DumiDumi Corporation
 email: olivia@dumidumi.com
 description: We make good bideos with food<br/> sometimes with Pebbles and Sir Loris.
 baseurl: # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: https://jaohar.github.io # the base hostname & protocol for your site
 author:
-street_address:
+street_address: Brunswick Road
 city: Melbourne
 state: Victoria
-zip_code: 55555
+zip_code: 3056
 country: Australia
 phone:
 
@@ -18,12 +18,14 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-500px_url:
+
+youtube_url: https://instagram.com
+instagram_url: https://instagram.com
 facebook_url: https://instagram.com
 github_url:
 gitlab_url: 
 googleplus_url:
-instagram_url: https://instagram.com
+500px_url:
 linkedin_url:
 pinterest_url:
 slack_url:
