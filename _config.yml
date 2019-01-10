@@ -1,16 +1,16 @@
 # site settings
 title: Butts4Life
-subtitle: by HTML5 UP
+subtitle: by DumiDumi Corporation
 email: youremailaddress@gmail.com
 description: A responsive site template designed by HTML5 Up<br/> and released under the Creative Commons.
 baseurl: # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
+street_address:
+city: Melbourne
+state: Victoria
 zip_code: 55555
-country: United States of America
+country: Australia
 phone: (716) 555-5555
 
 # homepage tiles
