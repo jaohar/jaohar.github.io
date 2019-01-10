@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About us
-order: 1
+order: 4
 description: Here we tell you about us
 image: assets/images/pic11.jpg
 nav-menu: true

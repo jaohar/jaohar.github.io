@@ -1,6 +1,7 @@
 ---
 title: Portfolio
 layout: landing
+order: 3
 description: 'This is the portfolio<br />there are videos here'
 image: assets/images/pic07.jpg
 nav-menu: true
