@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Elements
+layout: landing
+title: 'Elements'
 nav-menu: true
 ---
 
