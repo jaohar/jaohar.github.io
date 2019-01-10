@@ -1,5 +1,5 @@
 ---
-title: Case Study: Florist
+title: 'Case Study: Florist'
 layout: landing
 description: 'This is a case study<br />there are also videos here'
 image: assets/images/pic08.jpg
