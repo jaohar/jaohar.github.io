@@ -17,6 +17,11 @@ phone:
 tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
+topic_order:
+  - '/services'
+  - '/portfolio'
+  - '/casestudy'
+
 # social settings
 500px_url:
 facebook_url: https://instagram.com
