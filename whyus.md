@@ -1,6 +1,6 @@
 ---
-title: 'Why us?'
 layout: landing
+title: 'Why us?'
 description: 'This is where we tell you<br />why you should hire us'
 image: assets/images/pic11.jpg
 nav-menu: true
