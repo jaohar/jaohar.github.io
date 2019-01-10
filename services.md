@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: landing
 title: Services
+description: 'This is the portfolio page<br />there are good portfolio videos here'
+image: assets/images/pic06.jpg
 nav-menu: true
 ---
 
