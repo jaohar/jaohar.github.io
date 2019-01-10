@@ -1,6 +1,7 @@
 ---
 layout: landing
 title: 'Elements'
+description: 'This is where we tell you<br />why you should hire us'
 nav-menu: true
 ---
 
