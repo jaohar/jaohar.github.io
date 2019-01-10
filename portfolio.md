@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: 'Portfolio'
 layout: landing
 description: 'This is the portfolio page<br />there are good videos here'
 image: assets/images/pic07.jpg
