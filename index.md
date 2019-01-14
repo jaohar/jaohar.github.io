@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Butts4Life can make a bideo for you'
+landing-title: 'EatRepeat can make a bideo for you'
 description: null
 image: null
 author: null
