@@ -1,7 +1,7 @@
 ---
-title: 'Case Study: Florist'
+title: 'Case Study: Bread'
 layout: landing
-description: 'This is a case study<br />there are also florist videos here'
+description: 'This is a case study<br />there are also videos here'
 image: assets/images/pic08.jpg
 nav-menu: true
 ---
@@ -23,7 +23,7 @@ nav-menu: true
 
 <br>
 EcHO
-<BR>
+<BR> 
 
 {% include googleDrivePlayer.html id=page.driveId %}
 
