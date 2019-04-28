@@ -1,11 +1,11 @@
 # site settings
 title: EatRepeat
 subtitle: Melbourne, Australia
-email: eatrepeat.jaohar@gmail.com
+email: team@eatrepeat.com.au
 description: Food photography and videography<br/>based in Melbourne, Australia.
 baseurl: # the subpath of your site, e.g. /blog
 url: https://jaohar.github.io # the base hostname & protocol for your site
-author: King Dumi
+author: Jonathan
 street_address: Brunswick Road
 city: Melbourne
 state: Victoria
