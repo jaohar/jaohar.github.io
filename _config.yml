@@ -1,8 +1,8 @@
 # site settings
-title: EatRepeat
+title: Promotito
 subtitle: Melbourne, Australia
 email: team@eatrepeat.com.au
-description: Food photography and videography<br/>based in Melbourne, Australia.
+description: Build engaging health promotion programs using automated, dynamic conversations
 baseurl: # the subpath of your site, e.g. /blog
 url: https://jaohar.github.io # the base hostname & protocol for your site
 author: Jonathan
