@@ -1,7 +1,7 @@
 ---
-title: 'Case Study: Exercise'
+title: 'How do these programs work?'
 layout: landing
-description: 'This is a case study<br />there are also videos here'
+description: 'Illustrated and interactive examples'
 image: assets/images/pic08.jpg
 nav-menu: true
 ---

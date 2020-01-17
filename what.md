@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: post
 title: What are dynamic, automated, text-based conversations?
 description: null
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
-#This is a header
+##This is a header
 
 - **conversational agent or chat bot**
 - **mention AI and commonplace usage in business**

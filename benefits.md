@@ -6,9 +6,9 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-#Dynamic, automated, text-based conversations provide opportunity to:
+##Dynamic, automated, text-based conversations provide opportunity to:
 
-__Utilise popular messaging platforms to improve engagement and simplify participation__
+_Utilise popular messaging platforms to improve engagement and simplify participation_
 - Host your program in messaging applications that participants use all day, every day
 - Messaging platforms include: Facebook Messenger, Whatsapp, and SMS
 - Popular messaging platforms are available 24/7 and require no participant training

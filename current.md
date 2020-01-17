@@ -1,6 +1,6 @@
 ---
 title: 'What are the current applications?'
-layout: landing
+layout: post
 description: 'Existing use cases and supportive research'
 image: assets/images/pic08.jpg
 nav-menu: true
