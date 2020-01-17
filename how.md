@@ -1,6 +1,6 @@
 ---
 title: 'How do these programs work?'
-layout: landing
+layout: page
 description: 'Illustrated and interactive examples'
 image: assets/images/pic08.jpg
 nav-menu: true
