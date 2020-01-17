@@ -1,12 +1,16 @@
 ---
 layout: post
-title: Where are the benefits?
-description: Advantages for participants and administrators
+title: 'What are the benefits?'
+description: 'Advantages for participants and administrators'
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-##Dynamic, automated, text-based conversations provide opportunity to:
+###Dynamic, automated, text-based conversations provide opportunity to:
+
+###3
+##2
+#1
 
 _Utilise popular messaging platforms to improve engagement and simplify participation_
 - Host your program in messaging applications that participants use all day, every day

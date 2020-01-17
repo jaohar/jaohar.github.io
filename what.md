@@ -1,6 +1,6 @@
 ---
-layout: post
-title: What are dynamic, automated, text-based conversations?
+layout: page
+title: 'What are dynamic, automated, text-based conversations?'
 description: null
 image: assets/images/pic01.jpg
 nav-menu: true
