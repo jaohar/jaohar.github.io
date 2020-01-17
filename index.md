@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: Build engaging health promotion programs using automated, dynamic conversations
-description: null
+landing-title: Build health promotion programs </br>using popular messaging platforms
+description: echo description
 image: null
 author: null
 show_tile: false
