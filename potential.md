@@ -1,6 +1,6 @@
 ---
 title: What are the potential applications?
-layout: landing
+layout: page
 description: Opportunities to be designed and tested
 image: assets/images/pic08.jpg
 nav-menu: true
