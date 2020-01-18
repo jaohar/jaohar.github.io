@@ -19,16 +19,6 @@ nav-menu: true
 	</div>
 </section>
 
-{% include vimeoPlayer.html id="148827658" %}
-
-<br>
-EcHO
-<BR> 
-
-{% include googleDrivePlayer.html id=page.driveId %}
-
-
-
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
@@ -80,8 +70,6 @@ EcHO
 		</div>
 	</section>
 </section>
-
-{% include youtubePlayer.html id="sPl-NFsbeOQ" %}
 
 <!-- Three -->
 <section id="three">
