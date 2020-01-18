@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Build health promotion programs </br>using popular messaging platforms'
+landing-title: 'Build health promotion programs using popular messaging platforms'
 description: null
 image: null
 author: null

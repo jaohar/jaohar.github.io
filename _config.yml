@@ -2,7 +2,7 @@
 title: Promotito
 subtitle: Melbourne, Australia
 email: team@eatrepeat.com.au
-description: Increase program engagement using dynamic, automated, text-based conversations
+description: Increase participant engagement using dynamic, automated, text-based conversations
 baseurl: # the subpath of your site, e.g. /blog
 url: https://jaohar.github.io # the base hostname & protocol for your site
 author: Jonathan
@@ -19,9 +19,9 @@ tiles-count: 6 # first page counts as two tiles (add two to tile number)
 
 # social settings
 
-youtube_url: https://xyz.com
+youtube_url:
 instagram_url:
-facebook_url: https://xyz.com
+facebook_url:
 github_url:
 gitlab_url: 
 googleplus_url:

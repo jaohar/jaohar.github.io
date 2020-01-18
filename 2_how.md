@@ -1,5 +1,5 @@
 ---
-title: 'How do these programs work?'
+title: 'How does this work?'
 layout: page
 description: 'Illustrated and interactive examples'
 image: assets/images/pic08.jpg
