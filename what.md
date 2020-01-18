@@ -1,5 +1,5 @@
 ---
-title: 'What are dynamic, automated, text-based conversations?'
+title: 'What is this?'
 layout: post
 description: 'Something XYZ'
 image: assets/images/pic01.jpg
