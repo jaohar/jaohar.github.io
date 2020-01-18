@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: 'Benefits and advantages'
 description: 'For participants and administrators'
 image: assets/images/pic11.jpg
