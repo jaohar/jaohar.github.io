@@ -1,7 +1,7 @@
 ---
-title: 'Current applications'
-layout: page
-description: 'Existing use cases and supportive research'
+title: 'Current and potential applications'
+layout: landing
+description: 'Use cases and supportive research'
 image: assets/images/pic08.jpg
 nav-menu: true
 ---
