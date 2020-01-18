@@ -15,7 +15,7 @@ phone: +61 4XX XXX XXX
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6 # first page counts as two tiles (add two to tile number)
+tiles-count: 7 # first page counts as two tiles (add two to tile number)
 
 # social settings
 

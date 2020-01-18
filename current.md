@@ -1,5 +1,5 @@
 ---
-title: 'What are the current applications?'
+title: 'Current applications'
 layout: page
 description: 'Existing use cases and supportive research'
 image: assets/images/pic08.jpg

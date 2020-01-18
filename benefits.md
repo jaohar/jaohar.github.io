@@ -1,18 +1,14 @@
 ---
 layout: page
-title: 'What are the benefits?'
-description: 'Advantages for participants and administrators'
+title: 'Benefits and advantages'
+description: 'For participants and administrators'
 image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-###Dynamic, automated, text-based conversations provide opportunity to:
+__Dynamic, automated, text-based conversations provide opportunity to:__
 
-###3
-##2
-#1
-
-_Utilise popular messaging platforms to improve engagement and simplify participation_
+__Utilise popular messaging platforms to improve engagement and simplify participation__
 - Host your program in messaging applications that participants use all day, every day
 - Messaging platforms include: Facebook Messenger, Whatsapp, and SMS
 - Popular messaging platforms are available 24/7 and require no participant training

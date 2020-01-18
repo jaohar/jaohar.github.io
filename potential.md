@@ -1,5 +1,5 @@
 ---
-title: 'What are the potential applications?'
+title: 'Potential applications'
 layout: page
 description: Opportunities to be designed and tested
 image: assets/images/pic08.jpg
