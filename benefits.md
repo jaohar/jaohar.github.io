@@ -6,7 +6,7 @@ image: assets/images/pic11.jpg
 nav-menu: true
 ---
 
-__Dynamic, automated, text-based conversations provide opportunity to:__
+Dynamic, automated, text-based conversations provide opportunity to:
 
 __Utilise popular messaging platforms to improve engagement and simplify participation__
 - Host your program in messaging applications that participants use all day, every day
@@ -31,4 +31,4 @@ __Capture timely, specific, and accurate quantitative and qualitative insights__
 - Avoid the use of broad retrospective reporting, e.g. "Thinking about the last month, ..."
 - Avoid the use of imprecise Likert scales for frequency, e.g. "Never, Rarely, Sometimes, Always"
 
-#LINKS
+LINKS

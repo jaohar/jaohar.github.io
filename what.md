@@ -1,7 +1,7 @@
 ---
-layout: page
 title: 'What are dynamic, automated, text-based conversations?'
-description: null
+layout: page
+description: 'Something XYZ'
 image: assets/images/pic01.jpg
 nav-menu: true
 ---

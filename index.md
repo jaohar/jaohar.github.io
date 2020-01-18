@@ -1,14 +1,14 @@
 ---
 layout: home
 title: Home
-landing-title: Build health promotion programs </br>using popular messaging platforms
-description: echo description
+landing-title: 'Build health promotion programs </br>using popular messaging platforms'
+description: null
 image: null
 author: null
 show_tile: false
 ---
 
-What can we do for you?
+__What can we do for you?__
 
 - Promotito is a conversation-based application consultancy.
 - We can help develop or refine conversational agents to help you, help others, reach their goals
