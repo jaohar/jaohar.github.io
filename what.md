@@ -6,10 +6,10 @@ image: assets/images/pic01.jpg
 nav-menu: true
 ---
 
-##This is a header
+This is a header
 
-- **conversational agent or chat bot**
-- **mention AI and commonplace usage in business**
-- **read some similar blurbs**
+- __conversational agent or chat bot__
+- __mention AI and commonplace usage in business__
+- __read some similar blurbs__
 
-#LINKS
+LINKS

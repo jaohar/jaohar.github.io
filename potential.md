@@ -13,20 +13,11 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Florist</h2>
+			<h2>Applications</h2>
 		</header>
 		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
 </section>
-
-{% include vimeoPlayer.html id="148827658" %}
-
-<br>
-EcHO
-<BR> 
-
-{% include googleDrivePlayer.html id=page.driveId %}
-
 
 
 <!-- Two -->
@@ -80,8 +71,6 @@ EcHO
 		</div>
 	</section>
 </section>
-
-{% include youtubePlayer.html id="sPl-NFsbeOQ" %}
 
 <!-- Three -->
 <section id="three">
