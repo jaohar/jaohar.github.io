@@ -54,8 +54,8 @@ __Capture timely, specific, and accurate quantitative and qualitative insights__
 </div>
 
 Promotito is a conversation-based application consultancy. We can help you in the following ways:
-- 
+
 - To develop or refine conversational agents to help you, help others, reach their goals
-- **insert call to action that asks for a conversation to be had around what people need
-- **psychology, measurement, survey design, methodology, public health. worked in research and data collection for over 10 years
+- insert call to action that asks for a conversation to be had around what people need
+- psychology, measurement, survey design, methodology, public health. worked in research and data collection for over 10 years
  
