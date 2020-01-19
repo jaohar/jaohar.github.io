@@ -1,5 +1,5 @@
 ---
-title: 'How does this work?'
+title: 'How it works'
 layout: landing
 description: 'Illustrated and interactive examples'
 image: assets/images/bedphone.jpg
