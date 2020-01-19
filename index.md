@@ -16,18 +16,15 @@ show_tile: false
 	</div>
 </div>
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Florist</h2>
-		</header>
-	</div>
-</section>
-
 xyz pre.
 
-<h1>Benefits and advantages</h1>
+<div id="main">
+	<div>
+		<header class="major">
+			<h2>Benefits and advantages</h2>
+		</header>
+	</div>
+</div>
 
 Dynamic, automated, text-based conversations have benefits and advantages for both program participants and administrators. Specifically these conversations provide opportunity to:
 
@@ -54,7 +51,13 @@ Capture timely, specific, and accurate quantitative and qualitative insights
 - Avoid the use of broad retrospective reporting, e.g. "Thinking about the last month, ..."
 - Avoid the use of imprecise Likert scales for frequency, e.g. "Never, Rarely, Sometimes, Always"
 
-__What can we do for you?__
+<div id="main">
+	<div>
+		<header class="major">
+			<h2>What can we do for you?</h2>
+		</header>
+	</div>
+</div>
 
 - Promotito is a conversation-based application consultancy.
 - We can help develop or refine conversational agents to help you, help others, reach their goals
