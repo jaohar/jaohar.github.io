@@ -1,7 +1,7 @@
 ---
 title: 'Current applications'
 layout: landing
-description: 'Use cases and supportive research'
+description: 'Use cases and supporting evidence'
 image: assets/images/pic08.jpg
 nav-menu: true
 ---

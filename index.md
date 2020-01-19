@@ -20,6 +20,13 @@ xyz pre.
 
 Dynamic, automated, text-based conversations have benefits and advantages for both program participants and administrators. Specifically these conversations provide opportunity to:
 
+		<h4>Utilise popular messaging platforms to improve engagement and simplify participation</h4>
+		<ul>
+			<li>Host your program in messaging applications that participants use all day, every day</li>
+			<li>Messaging platforms include: Facebook Messenger, Whatsapp, and SMS</li>
+			<li>Popular messaging platforms are available 24/7 and require no participant training</li>
+		</ul>
+
 Utilise popular messaging platforms to improve engagement and simplify participation
 - Host your program in messaging applications that participants use all day, every day
 - Messaging platforms include: Facebook Messenger, Whatsapp, and SMS
