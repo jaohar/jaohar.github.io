@@ -8,7 +8,9 @@ author: null
 show_tile: false
 ---
 
-xyz pre.
+- Also known as conversational agents or chat bots
+- Extensive usage in commercial contexts
+- Becoming more commonly used by individuals via voice-based conversational agents
 
 <div id="main">
 	<div>
@@ -20,32 +22,23 @@ xyz pre.
 
 Dynamic, automated, text-based conversations have benefits and advantages for both program participants and administrators. Specifically these conversations provide opportunity to:
 
-<div>
-		<h4>Utilise popular messaging platforms to improve engagement and simplify participation</h4>
-		<ul>
-			<li>Host your program in messaging applications that participants use all day, every day</li>
-			<li>Messaging platforms include: Facebook Messenger, Whatsapp, and SMS</li>
-			<li>Popular messaging platforms are available 24/7 and require no participant training</li>
-		</ul>
-</div>
-
-Utilise popular messaging platforms to improve engagement and simplify participation
+__Utilise popular messaging platforms to improve engagement and simplify participation__
 - Host your program in messaging applications that participants use all day, every day
 - Messaging platforms include: Facebook Messenger, Whatsapp, and SMS
 - Popular messaging platforms are available 24/7 and require no participant training
 
-Build and maintain positive relationships with participants
+__Build and maintain positive relationships with participants__
 - Personalise and customise your program to maximise response rates and minimise attrition
 - Reward ongoing participation by sharing collected insights, where and when possible
 - Respect participant’s need for flexibility, e.g. accepting requests to reschedule input
 - Offer customised referrals to relevant information resources or services
 
-Create scalable programs with longevity using low-cost and low-complexity infrastructure
+__Create scalable programs with longevity using low-cost and low-complexity infrastructure__
 - Flexible infrastructure can rapidly accommodate program design refinements
 - No need to develop and maintain costly, custom smartphone, web, or survey applications
 - More customisable and flexible than commercial or freely-available smartphone applications
 
-Capture timely, specific, and accurate quantitative and qualitative insights
+__Capture timely, specific, and accurate quantitative and qualitative insights__
 - Assess quantitative and qualitative insights on a daily, weekly, or monthly basis
 - Suitable for a wide range of research and evaluation activities, e.g. diary studies
 - Review trends, patterns, and consistency of longitudinal behaviours, emotions, and experiences
@@ -60,8 +53,9 @@ Capture timely, specific, and accurate quantitative and qualitative insights
 	</div>
 </div>
 
-- Promotito is a conversation-based application consultancy.
-- We can help develop or refine conversational agents to help you, help others, reach their goals
-- Call to action that asks for a conversation to be had around what people need
-- psychology, measurement, survey design, methodology, public health. worked in research and data collection for over 10 years
+Promotito is a conversation-based application consultancy. We can help you in the following ways:
+- 
+- To develop or refine conversational agents to help you, help others, reach their goals
+- **insert call to action that asks for a conversation to be had around what people need
+- **psychology, measurement, survey design, methodology, public health. worked in research and data collection for over 10 years
  
