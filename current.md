@@ -1,5 +1,5 @@
 ---
-title: 'Current and potential applications'
+title: 'Current applications'
 layout: landing
 description: 'Use cases and supportive research'
 image: assets/images/pic08.jpg
