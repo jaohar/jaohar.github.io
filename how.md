@@ -2,7 +2,7 @@
 title: 'How does this work?'
 layout: landing
 description: 'Illustrated and interactive examples'
-image: assets/images/pic08.jpg
+image: assets/images/bedphone.jpg
 nav-menu: true
 ---
 

@@ -8,11 +8,11 @@ author: null
 show_tile: false
 ---
 
-__What is this?__
+<h1>What is this?</h1>
 
 xyz pre.
 
-__Benefits and advantages__
+<h1>Benefits and advantages</h1>
 
 Dynamic, automated, text-based conversations have benefits and advantages for both program participants and administrators. Specifically these conversations provide opportunity to:
 
