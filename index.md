@@ -8,9 +8,15 @@ author: null
 show_tile: false
 ---
 
+<div id="main">
+
+<section id="one">
+	<div class="inner">
 		<header class="major">
 			<h2>What is this?</h2>
 		</header>
+	</div>
+</div>
 
 xyz pre.
 
