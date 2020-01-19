@@ -9,7 +9,7 @@ show_tile: false
 ---
 
 
-	<div>
+	<div id="main">
 		<header class="major">
 			<h2>What is this?</h2>
 		</header>
