@@ -14,6 +14,7 @@ show_tile: false
 			<h2>What is this?</h2>
 		</header>
 	</div>
+</div>
 
 <!-- One -->
 <section id="one">
@@ -22,7 +23,7 @@ show_tile: false
 			<h2>Florist</h2>
 		</header>
 	</div>
-
+</section>
 
 xyz pre.
 
