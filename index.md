@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Build health promotion programs using dynamic, automated, text-based conversations'
+landing-title: 'Health promotion through dynamic, automated conversations'
 description: null
 image: null
 author: null
