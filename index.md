@@ -8,7 +8,9 @@ author: null
 show_tile: false
 ---
 
-<h1>What is this?</h1>
+		<header class="major">
+			<h2>What is this?</h2>
+		</header>
 
 xyz pre.
 
