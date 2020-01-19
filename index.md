@@ -1,20 +1,12 @@
 ---
 layout: home
 title: Home
-landing-title: 'Build health promotion programs using popular messaging platforms'
+landing-title: 'Health promotion programs based on dynamic, automated, text-based conversations'
 description: null
 image: null
 author: null
 show_tile: false
 ---
-
-<div id="main">
-	<div>
-		<header class="major">
-			<h2>What is this?</h2>
-		</header>
-	</div>
-</div>
 
 xyz pre.
 
