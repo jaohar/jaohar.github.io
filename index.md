@@ -8,6 +8,18 @@ author: null
 show_tile: false
 ---
 
+
+Conversational agents can take many forms.
+
+- Text-based or conversation-based.
+
+- Menu/Button-Based Chatbots
+- Keyword Recognition-Based Chatbots
+- Contextual Chatbots
+
+- Scripted or rule-based
+- Machine learning or NLP-based
+
 - Also known as conversational agents or chat bots
 - Extensive usage in commercial contexts
 - Becoming more commonly used by individuals via voice-based conversational agents
@@ -15,7 +27,32 @@ show_tile: false
 <div id="main">
 	<div>
 		<header class="major">
-			<h2>Benefits and advantages</h2>
+			<h2>Alternatives to conversational agents</h2>
+		</header>
+	</div>
+</div>
+
+_Website_
+
+Low-complexity chatbots that seek to guide users to specific information or resources may be replaced by a simple website with links. Simple websites can organise and display their content in engaging ways. A chatbot that doesn’t involve significant engagement with the user merely creates complexity and falls short of expectations of a more engaging experience. However, a website is suited for a single engagement and by itself provides limited ability for customisation and interactivity. An example of a chatbot that would be better off as a website is the Lifeline twitter bot. This chatbot only contains button inputs and adds no additional value in it’s current format.
+
+_Online survey_
+
+An online survey is ideal low-cost way to streamline data collection. They also feature piping and branching to facilitate personalisation. However surveys are a limited format for disseminating information. Multiple engagements can be managed through multiple survey entries.
+
+_Email campaign_
+
+Campaigns based on email can be used to regularly check in with participants (also known as a ‘drip’ email campaign).
+Email campaigns can prompt for data or responses from email replies or by linking to resources such as an online survey or web-based application. The greatest strength of email-based campaigns is their simple structure, essentially  a sequence of scheduled, prewritten emails that use custom fields for personalisation. However, this personalisation is generally token as anything beyond basic segmentation is challenging.
+
+_Custom smartphone application_
+
+Ideal for collecting data at regular intervals. Can use system notifications to draw participants back to the application at regular intervals. However, developing an custom smartphone application is an expensive endeavour. Install rates for third-party applications are lower than ever (REF). Smartphone applications require a lot of resources to develop and maintain across one or multiple platforms (iOS/Android).
+
+<div id="main">
+	<div>
+		<header class="major">
+			<h2>Benefits and advantages of conversational agents</h2>
 		</header>
 	</div>
 </div>
